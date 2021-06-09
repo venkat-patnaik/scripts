@@ -1,0 +1,127 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ODBC\ODBC.INI\VenkatSS]
+"Driver"="C:\\Windows\\SysWOW64\\sqlncli11.dll"
+"Server"="OMAH151"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\VenkatSS]
+"Driver"="C:\\Windows\\system32\\sqlncli11.dll"
+"Server"="OMAH151"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ODBC\ODBC.INI\Venkateci]
+"Driver"="C:\\Windows\\SysWOW64\\fs4odbc.dll"
+"Database"=""
+"Description"="HEALTHpac 4.0 Prod Region"
+"UID"="ecd100"
+"Password"=""
+"Server"="asp-246.eldocomp.com"
+"ServerPort"="52642"
+"LocalPort"="0"
+"Encryption"="Yes"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ODBC\ODBC.INI\VenkatDB2]
+"Driver"="D:\\Program Files\\IBM\\SQLLIB\\BIN\\DB2CLI.DLL"
+"Description"=""
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\VenkatDB2]
+"Driver"="D:\\Program Files\\IBM\\SQLLIB\\BIN\\DB2CLIO.DLL"
+"Description"=""
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ODBC\ODBC.INI\VenkatTDProd]
+"Driver"="C:\\Program Files (x86)\\Teradata\\Client\\16.10\\bin\\tdata32.dll"
+"Description"=""
+"DBCName"="TD_PROD"
+"DataSourceDNSEntries"=""
+"DefaultDatabase"=""
+"Username"=""
+"LastUser"=""
+"Password"=""
+"Password_X"=""
+"MechanismName"=""
+"MechanismKey"=""
+"MechanismKey_X"=""
+"AccountString"=""
+"DsnOptions"="100010100000011010000011110"
+"DateTimeFormat"="IAA"
+"LoginTimeout"="20"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\VenkatTDProd]
+"Driver"="C:\\Program Files\\Teradata\\Client\\16.10\\bin\\tdata32.dll"
+"Description"=""
+"DBCName"="TD_PROD"
+"DataSourceDNSEntries"=""
+"DefaultDatabase"=""
+"Username"=""
+"LastUser"=""
+"Password"=""
+"Password_X"=""
+"MechanismName"=""
+"MechanismKey"=""
+"MechanismKey_X"=""
+"AccountString"=""
+"DsnOptions"="100010100000011010000011100"
+"DateTimeFormat"="IAA"
+"LoginTimeout"="20"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ODBC\ODBC.INI\VenkatTDProdLDAP]
+"Driver"="C:\\Program Files (x86)\\Teradata\\Client\\16.10\\bin\\tdata32.dll"
+"Description"=""
+"DBCName"="TD_PROD"
+"DataSourceDNSEntries"=""
+"DefaultDatabase"=""
+"Username"=""
+"LastUser"=""
+"Password"=""
+"Password_X"=""
+"MechanismName"="ldap    "
+"MechanismKey"=""
+"MechanismKey_X"=""
+"AccountString"=""
+"DsnOptions"="100010100000011010000011100"
+"DateTimeFormat"="IAA"
+"LoginTimeout"="20"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\VenkatTDProdLDAP]
+"Driver"="C:\\Program Files\\Teradata\\Client\\16.10\\bin\\tdata32.dll"
+"Description"=""
+"DBCName"="TD_PROD"
+"DataSourceDNSEntries"=""
+"DefaultDatabase"=""
+"Username"=""
+"LastUser"=""
+"Password"=""
+"Password_X"=""
+"MechanismName"="ldap    "
+"MechanismKey"=""
+"MechanismKey_X"=""
+"AccountString"=""
+"DsnOptions"="100010100000011010000011100"
+"DateTimeFormat"="IAA"
+"LoginTimeout"="20"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\ODBC\ODBC.INI\ODBC Data Sources]
+"VenkatDB2"="IBM DB2 ODBC DRIVER - DB2COPY1"
+"VenkatSS"="SQL Server Native Client 11.0"
+"VenkatTD_Prod"="Teradata Database ODBC Driver 16.10"
+"VenkatTD_ProdLDAP"="Teradata Database ODBC Driver 16.10"
+"Venkatecd40"="DB/C FS 4 Driver"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\ODBC Data Sources]
+"VenkatDB2"="IBM DB2 ODBC DRIVER - DB2COPY1"
+"VenkatSS"="SQL Server Native Client 11.0"
+"VenkatTD_Prod"="Teradata Database ODBC Driver 16.10"
+"VenkatTD_ProdLDAP"="Teradata Database ODBC Driver 16.10"
+
+
