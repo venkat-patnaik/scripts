@@ -6,7 +6,7 @@ It has a prompt for credentials so you'll need to ensure the account that you ar
 The servers.txt file on line#2 will contain the list of servers where you want to create these DSN's.
 $HostedRegFile on line#5 - should be in the format as shown in the attached sample ODBC3264bit.reg. You'll need to modify the path of the dll file based on the version of the drivers you are using in your environment. I started building my code using the one provided in the References but in the end I had to make significant amount of changes for it to work per our requirements. 
 
-I believe there is still a lot of scope to improve this code but I'll leave that up to you :)
+I believe there is still a lot of scope to improve this code but I'll leave that up to you to figure out :)
 
 **References:**
 https://serverfault.com/questions/865296/pushing-a-hosted-registry-file-to-multiple-servers
